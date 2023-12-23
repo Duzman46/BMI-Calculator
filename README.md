@@ -31,7 +31,7 @@ This project is licensed under the MIT License. For more information, see the [L
 
 For feedback or questions regarding the project, you can reach out via email at [furkanduzman46@gmail.com](mailto:furkanduzman46@gmail.com).
 
-
+## Code Sample
 ```python
 import tkinter
 
